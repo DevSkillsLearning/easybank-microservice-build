@@ -1,0 +1,33 @@
+[submodule "accounts"]
+	path = accounts
+	url = git@github.com:DevangChauhan/accounts.git
+[submodule "cards"]
+	path = cards
+	url = git@github.com:DevangChauhan/cards.git
+[submodule "loans"]
+	path = loans
+	url = git@github.com:DevangChauhan/loans.git
+[submodule "message"]
+	path = message
+	url = git@github.com:DevangChauhan/message.git
+[submodule "configserver"]
+	path = configserver
+	url = git@github.com:DevangChauhan/configserver.git
+[submodule "gatewayserver"]
+	path = gatewayserver
+	url = git@github.com:DevangChauhan/gatewayserver.git
+[submodule "eurekaserver"]
+	path = eurekaserver
+	url = git@github.com:DevangChauhan/eurekaserver.git
+[submodule "docker-compose"]
+	path = docker-compose
+	url = git@github.com:DevangChauhan/docker-compose.git
+[submodule "k8s"]
+	path = k8s
+	url = git@github.com:DevangChauhan/k8s.git
+[submodule "helm"]
+	path = helm
+	url = git@github.com:DevangChauhan/helm.git
+[submodule "easybank-config"]
+	path = easybank-config
+	url = git@github.com:DevangChauhan/easybank-config.git
