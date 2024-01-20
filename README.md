@@ -18,11 +18,11 @@ Follow these steps to get started with the EasyBank microservices application:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/easybank-microservices.git
+   git clone git@github.com:DevangChauhan/easybank-microservice-build.git
 
 2. Clone the submodule repositories to your local machine
    ```bash
-   git clone --recursive https://github.com/your-username/easybank-microservices.git
+   git clone --recursive  git@github.com:DevangChauhan/easybank-microservice-build.git
 
 # Important Links
 - Spring Boot - https://spring.io/projects/spring-boot
